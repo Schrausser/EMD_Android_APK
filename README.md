@@ -7,7 +7,7 @@ Android basic source (BASIC!, Laughton, 2011) to simulate parts of EMD Procedure
 - Include: strg.txt
 - Install: EMDv4.2.0.apk
 
-(pic1.jpg)
+![figure.\label{pic1}](pic1.jpg)
 
 
 ### References
