@@ -1,17 +1,16 @@
 ## EMD_Android_APK
 Android basic source (BASIC!, Laughton, 2011) to simulate parts of EMD Procedure implemented by Schrausser et al. (1994, 2022, respectively). Android versions 4.0 or later.
 
-
-**Files**
-
-https://github.com/Schrausser/EMD_Android_APK
+### Files
 
 - Source: emd.bas
 - Include: strg.txt
-- Install: EMD.apk
+- Install: EMDv4.2.0.apk
+
+(pic1.jpg)
 
 
-**References** 
+### References
 
 Laughton, P. (2011). De Re BASIC!. *Manual*. https://github.com/RFO-BASIC/De-Re-Basic.
 
@@ -19,5 +18,6 @@ Schrausser, D. G., Draxler, J., & Plechinger J. (1994). EMD - Eye Movement Desen
  
 Schrausser, D. G., Draxler, J., & Plechinger J. (2022). EMD - Eye Movement Desensitization. *Manuscript*. (English translation). Institute of Psychology, Karl Franzens University, Graz, Austria. https://www.researchgate.net/publication/367050282
 
+Schrausser, D. G. (2023). Schrausser/EMD_Android_APK: v4.2.0 (v4.2.0). Zenodo. https://doi.org/10.5281/zenodo.7678447
    
 
