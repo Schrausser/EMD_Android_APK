@@ -14,6 +14,13 @@ Android basic source (BASIC!, Laughton, 2011) to simulate parts of EMD Procedure
 
 ![figure.\label{pic2}](pic2.jpg)
 
+
+![figure.\label{pic3}](pic3.jpg)
+
+
+![figure.\label{pic4}](pic4.jpg)
+
+
 ### References
 
 Laughton, P. (2011). De Re BASIC!. *Manual*. https://github.com/RFO-BASIC/De-Re-Basic.
