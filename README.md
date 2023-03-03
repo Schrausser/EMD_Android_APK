@@ -25,7 +25,7 @@ Android basic source (BASIC!, Laughton, 2011) to simulate parts of EMD Procedure
 
 Laughton, P. (2011). De Re BASIC!. *Manual*. https://github.com/RFO-BASIC/De-Re-Basic.
 
-Schrausser, D. G., Draxler, J., & Plechinger J. (1994). EMD - Eye Movement Desensitization. *Manuskript*. Institut für Psychologie, Karl Franzens Universität, Graz, Austria. http://doi.org/10.13140/RG.2.2.28498.02247/1
+Schrausser, D. G., Draxler, J., & Plechinger J. (1994). EMD - Eye Movement Desensitization. *Manuskript*. Institut für Psychologie, Karl Franzens Universität, Graz, Austria. http://doi.org/10.13140/RG.2.2.28498.02247/2
  
 Schrausser, D. G., Draxler, J., & Plechinger J. (2022). EMD - Eye Movement Desensitization. *Manuscript*. (English translation). Institute of Psychology, Karl Franzens University, Graz, Austria. https://www.researchgate.net/publication/367050282
 
