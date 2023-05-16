@@ -4,8 +4,7 @@ Android basic source (BASIC!, Laughton, 2011) to simulate parts of EMD Procedure
 ### Files
 
 - Source: emd.bas
-- Include: strg.txt
-- Install: EMDv4.2.0.apk
+- Include: strg.inc, sigma.inc
 
 ### Screenshots
 
