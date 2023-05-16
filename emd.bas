@@ -62,10 +62,8 @@ DO
  _a=a:a=b:b=_a
  st=st*-1                  % //   run rev                   //
 UNTIL0
-!!
 ONERROR:
 GOSUB fin
-!!
 ONBACKKEY:
 GOSUB fin
 END
