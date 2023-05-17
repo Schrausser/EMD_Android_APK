@@ -1,5 +1,5 @@
 ## EMD_Android_APK
-Android basic source (BASIC!, Laughton, 2011) to simulate parts of EMD Procedure implemented by Schrausser et al. (1994, 2022, respectively). Android versions 4.0 or later.
+Android basic source (BASIC!, Laughton, 2011) to simulate parts of EMDR Procedure implemented by Schrausser et al. (1994, 2022, respectively). Android versions 4.0 or later.
 
 ### Files
 
