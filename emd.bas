@@ -73,7 +73,7 @@ CONSOLE.TITLE _name$
 PRINT _name$+" Eye Movement Desensitization "+_ver$
 PRINT "Copyright "+_cr$+" 1994-2023 by Dietmar Gerald Schrausser"
 PRINT "http://github.com/Schrausser/EMD_Android_APK"
-PRINT "DOI:10.5281/zenodo.7644238"
+PRINT "DOI:10.5281/zenodo.7644237"
 END
 RETURN
 ! //
