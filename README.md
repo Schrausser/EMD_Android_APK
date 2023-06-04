@@ -26,8 +26,7 @@ Laughton, P. (2011). De Re BASIC!. *Manual*. https://github.com/RFO-BASIC/De-Re-
 
 Schrausser, D. G., Draxler, J., & Plechinger J. (1994). EMD - Eye Movement Desensitization. *Manuskript*. Institut für Psychologie, Karl Franzens Universität, Graz, Austria. http://doi.org/10.13140/RG.2.2.28498.02247/2
  
-Schrausser, D. G., Draxler, J., & Plechinger J. (2022). EMD - Eye Movement Desensitization. *Manuscript*. (English translation). Institute of Psychology, Karl Franzens University, Graz, Austria. https://www.researchgate.net/publication/367050282
+Schrausser, D. G., Draxler, J., & Plechinger J. (2022). EMD - Eye Movement Desensitization. *Manuscript*. (English translation). Institute of Psychology, Karl Franzens University, Graz, Austria. http://doi.org/10.13140/RG.2.2.13968.38404
 
-Schrausser, D. G. (2023). Schrausser/EMD_Android_APK: v4.2.0 (v4.2.0). Zenodo. https://doi.org/10.5281/zenodo.7678447
+Schrausser, D. G. (2023). *Schrausser/EMD_Android_APK: v4.5 (v4.5.7)*. Zenodo. https://doi.org/10.5281/zenodo.7644237
    
-
