@@ -1,7 +1,7 @@
 ## EMD_Android_APK
 [Demo movie](https://m.youtube.com/watch?v=n8u1iLaO1cQ)
 
-Android application to simulate parts of EMDR Procedure implemented by Schrausser et al. (1994, 2022, respectively). Android versions 4.0 or later.
+Android application to simulate parts of EMDR procedure implemented by Schrausser et al. (1994, 2022, respectively). Android versions 4.0 or later.
 
 ### Files
 
