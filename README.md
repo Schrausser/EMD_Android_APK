@@ -22,11 +22,11 @@ Android application to simulate parts of EMDR procedure implemented by Schrausse
 
 ### References
 
-Schrausser, D. G., Draxler, J., & Plechinger, J. (1994). EMD - Eye Movement Desensitization. *Manuskript*. Institut für Psychologie, Karl Franzens Universität, Graz, Austria. [http://doi.org/10.13140/RG.2.2.28498.02247/2](http://doi.org/10.13140/RG.2.2.28498.02247/2)
- 
-———. (2022). EMD - Eye Movement Desensitization. *Manuscript*. (English translation). Institute of Psychology, Karl Franzens University, Graz, Austria. [http://doi.org/10.13140/RG.2.2.13968.38404](http://doi.org/10.13140/RG.2.2.13968.38404)
-
 Schrausser, D. G. (2023a). *Schrausser/EMD_Android_APK: v4.5 (v4.5.7)*. Zenodo. [https://doi.org/10.5281/zenodo.7644237](https://doi.org/10.5281/zenodo.7644237)
    
 ———. (2023b). EMDA: Treatment procedure for lateral Eye Movement
 Desensitization. PsyArXiv. [https://doi.org/10.31234/osf.io/n2r5z](https://doi.org/10.31234/osf.io/n2r5z)
+
+Schrausser, D. G., Draxler, J., & Plechinger, J. (1994). EMD - Eye Movement Desensitization. *Manuskript*. Institut für Psychologie, Karl Franzens Universität, Graz, Austria. [http://doi.org/10.13140/RG.2.2.28498.02247/2](http://doi.org/10.13140/RG.2.2.28498.02247/2)
+ 
+———. (2022). EMD - Eye Movement Desensitization. *Manuscript*. (English translation). Institute of Psychology, Karl Franzens University, Graz, Austria. [http://doi.org/10.13140/RG.2.2.13968.38404](http://doi.org/10.13140/RG.2.2.13968.38404)
