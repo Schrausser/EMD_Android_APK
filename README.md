@@ -3,6 +3,8 @@
 
 Android application to simulate parts of EMDR procedure implemented by Schrausser et al. ([1994](http://doi.org/10.13140/RG.2.2.28498.02247/2), [2022](http://doi.org/10.13140/RG.2.2.13968.38404), respectively). Android versions 4.0 or later (c.f. Schrausser, [2023a](https://doi.org/10.5281/zenodo.7644237), [b](https://doi.org/10.31234/osf.io/n2r5z)).
 
+![figure.\label{anim01}](anim01.gif)
+
 ### Files
 
 - Source: `emd.bas`
